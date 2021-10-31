@@ -15,4 +15,4 @@ Question 1: Are you wishing for the website to be continuously updated with more
 
 Smith private Limited consists of Clay-Henery-Business Analyst, Daniel-Desginer, David-Coder, Blake-Tester.
 
-uni project
+uni project.
